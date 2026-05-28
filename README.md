@@ -8,11 +8,9 @@ Welcome to my collection of Python-based data science projects. This collection 
 A machine learning pipeline that cleans demographic and behavioral data to train predictive classification models, optimizing predictive engineering structures for complex datasets.
 * **Tech Stack:** Python, Pandas, Scikit-Learn, Matplotlib, Jupyter Notebooks
 
-### 2. Differential Gene Expression Profiling in Cancer Subtypes (Active Development)
-An analytical computational workflow designed to parse, normalize, and log-transform high-dimensional genomic microarrays. This project implements statistical variance filtering and hierarchical clustering to isolate distinctive biomarker expression signatures between distinct leukemia cohorts (ALL vs. AML).
-* **Tech Stack:** Python, Pandas, NumPy, Seaborn, Matplotlib, Biostatistics
+## 2. 🧬[Cancer Transcriptomics & Differential Gene Expression Analysis](./Cancer-Transcriptomics-Analysis)
+An end-to-end bioinformatics pipeline written in Python to analyze high-throughput transcriptomic data (Golub Leukemia Dataset). This project processes thousands of gene expression profiles using log-transformations, variance filtering, and two-sample t-tests to isolate statistically significant biomarkers that distinguish Acute Lymphoblastic Leukemia (ALL) from Acute Myeloid Leukemia (AML).
 
-
-### 2. [Web Scraping – Fashion Products](./Fashion-Trend-Analysis)
+* **Tech Stack:** Python, Pandas, NumPy, SciPy, Seaborn, Matplotlib
 
 > ✨ Created by Jubilee Amechi – [@jubileeamechi](https://github.com/jubileeamechi)
